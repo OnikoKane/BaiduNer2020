@@ -5,7 +5,7 @@
 
 前两个文件在对model进行练习和尝试，不供参考。04才是完整的pipeline
 
-Moedl: BERT + LSTM + FullConnect (Tensorflow(2.x) + HuggingFace) 
+Moedl: BERT + LSTM + FullConnect (Tensorflow(2.x) + HuggingFace transformers) 
 
 自己电脑显存仅有6G，加载不了BERT，故使用Colab GPU
 
