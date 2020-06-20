@@ -5,7 +5,7 @@
 
 前两个文件在对model进行练习和尝试，不供参考。04才是完整的pipeline
 
-使用BERT模型，使用Huggingface的集成库
+Moedl: BERT + LSTM + FullConnect (Tensorflow(2.x) + HuggingFace) 
 
 自己电脑显存仅有6G，故使用Colab
 
